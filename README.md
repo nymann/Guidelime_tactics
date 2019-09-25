@@ -1,2 +1,2 @@
-# Guidelime_tacticts
-Guide based on tacticts 1-60 guide.
+# Guidelime_tactics
+Guide based on tactics 1-60 guide.
